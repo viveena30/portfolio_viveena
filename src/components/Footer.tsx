@@ -10,13 +10,13 @@ export const Footer: React.FC = () => {
             Thank you for visiting my portfolio. Let's connect and create something amazing together!
           </p>
           <div className="flex justify-center space-x-6">
-            <a href="#" className="text-gray-400 hover:text-white transition-colors">
+            <a href="mailto:viveena02@gmail.com" className="text-gray-400 hover:text-white transition-colors">
               <Mail className="h-6 w-6" />
             </a>
-            <a href="#" className="text-gray-400 hover:text-white transition-colors">
+            <a href="https://github.com/viveena30" className="text-gray-400 hover:text-white transition-colors">
               <Github className="h-6 w-6" />
             </a>
-            <a href="#" className="text-gray-400 hover:text-white transition-colors">
+            <a href="https://www.linkedin.com/in/viveenarathi/" className="text-gray-400 hover:text-white transition-colors">
               <Linkedin className="h-6 w-6" />
             </a>
           </div>
