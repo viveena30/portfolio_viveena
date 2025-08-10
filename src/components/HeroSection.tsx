@@ -82,7 +82,7 @@ export const HeroSection: React.FC = () => {
             <Linkedin className="h-5 w-5" />
             <span>LinkedIn</span>
           </a>
-          <a href="https://drive.google.com/file/d/1XImflQ_43DlOOeFJzlmimpjGgzTjpGSp/view?usp=sharing" className="bg-white border-2 border-indigo-600 text-indigo-600 hover:bg-indigo-600 hover:text-white px-6 py-3 rounded-lg flex items-center space-x-2 transition-all duration-300 hover:scale-105 shadow-md hover-lift">
+          <a href="https://drive.google.com/file/d/1BAw1q4N0EBF9qCHiR-BsERxH-Kvz90jz/view?usp=sharing" className="bg-white border-2 border-indigo-600 text-indigo-600 hover:bg-indigo-600 hover:text-white px-6 py-3 rounded-lg flex items-center space-x-2 transition-all duration-300 hover:scale-105 shadow-md hover-lift">
             <Download className="h-5 w-5" />
             <span>Resume</span>
           </a>
